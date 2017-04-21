@@ -1,0 +1,658 @@
+İl Toplam CHP DP BĞMZ İl Toplam CHP DP BĞMZ
+Toplam 465 397 61 7
+Adana  10 10 0 0 İstanbul 23 5 15 3
+Afyonkarahisar 8 0 8 0 İzmir 16 16 0 0
+Ağrı 3 3 0 0 Kars 9 9 0 0
+Amasya 4 4 0 0 Kastamonu 9 8 0 1
+Ankara 17 17 0 0 Kayseri 9 6 3 0
+Antalya 7 7 0 0 Kırklareli 5 5 0 0
+Artvin  5 5 0 0 Kırşehir 4 4 0 0
+Aydın 7 7 0 0 Kocaeli 10 10 0 0
+Balıkesir 13 13 0 0 Konya 16 16 0 0
+Bilecik 3 3 0 0 Kütahya 10 3 7 0
+Bingöl 2 2 0 0 Malatya 11 11 0 0
+Bitlis 2 2 0 0 Manisa 11 11 0 0
+Bolu 7 7 0 0 Maraş 6 5 0 1
+Burdur 3 2 0 1 Mardin 7 7 0 0
+Bursa 12 12 0 0 Muğla 5 1 4 0
+Çanakkale 6 0 6 0 Muş 2 2 0 0
+Çankırı 5 5 0 0 Niğde 7 7 0 0
+Çorum 8 8 0 0 Ordu 8 8 0 0
+Denizli 8 7 0 1 Rize 6 6 0 0
+Diyarbakır 7 7 0 0 Samsun 10 10 0 0
+Edirne 5 2 3 0 Siirt 4 4 0 0
+Elazığ 5 5 0 0 Sinop 5 2 3 0
+Erzincan 5 5 0 0 Sivas 12 12 0 0
+Erzurum 10 10 0 0 Tekirdağ 5 5 0 0
+Eskişehir 6 1 5 0 Tokat 8 8 0 0
+Gaziantep 7 7 0 0 Trabzon 12 12 0 0
+Giresun 8 8 0 0 Tunceli 2 2 0 0
+Gümüşhane 6 6 0 0 Urfa 6 6 0 0
+Hakkari 1 1 0 0 Van 3 3 0 0
+Hatay 6 6 0 0 Yozgat 7 7 0 0
+Isparta 5 5 0 0 Zonguldak 9 9 0 0
+İçel 7 0 7 0
+
+İl Toplam CHP DP MİLLETPARTİSİ BĞMZ İl Toplam CHP DP MİLLETPARTİSİ BĞMZ
+Toplam 487 69 416 1 1
+Adana  11 0 11 0 0 İstanbul 27 0 27 0 0
+Afyonkarahisar 9 0 9 0 0 İzmir 17 0 17 0 0
+Ağrı 3 0 3 0 0 Kars 10 10 0 0 0
+Amasya 4 0 4 0 0 Kastamonu 10 1 9 0 0
+Ankara 18 0 18 0 0 Kayseri 9 0 9 0 0
+Antalya 7 0 7 0 0 Kırklareli 5 0 5 0 0
+Artvin  5 0 5 0 0 Kırşehir 4 1 2 1 0
+Aydın 7 0 7 0 0 Kocaeli 11 0 11 0 0
+Balıkesir 13 0 13 0 0 Konya 17 0 17 0 0
+Bilecik 4 0 4 0 0 Kütahya 10 1 9 0 0
+Bingöl 2 2 0 0 0 Malatya 11 11 0 0 0
+Bitlis 2 2 0 0 0 Manisa 12 0 12 0 0
+Bolu 7 0 7 0 0 Maraş 7 0 7 0 0
+Burdur 3 0 3 0 0 Mardin 7 3 3 0 1
+Bursa 12 0 12 0 0 Muğla 6 0 6 0 0
+Çanakkale 8 0 8 0 0 Muş 2 0 2 0 0
+Çankırı 5 0 5 0 0 Niğde 8 0 8 0 0
+Çorum 8 0 8 0 0 Ordu 8 6 2 0 0
+Denizli 8 0 8 0 0 Rize 6 0 6 0 0
+Diyarbakır 7 0 7 0 0 Samsun 10 0 10 0 0
+Edirne 5 0 5 0 0 Siirt 4 0 4 0 0
+Elazığ 5 0 5 0 0 Sinop 5 5 0 0 0
+Erzincan 5 5 0 0 0 Sivas 12 0 12 0 0
+Erzurum 10 0 10 0 0 Tekirdağ 5 0 50 0
+Eskişehir 6 0 6 0 0 Tokat 9 1 8 0 0
+Gaziantep 7 0 7 0 0 Trabzon 12 9 3 0 0
+Giresun 8 0 8 0 0 Tunceli 2 0 2 0 0
+Gümüşhane 6 0 6 0 0 Urfa 7 1 6 0 0
+Hakkari 1 1 0 0 0 Van 3 2 1 0 0
+Hatay 6 6 0 0 0 Yozgat 7 1 6 0 0
+Isparta 5 0 5 0 0 Zonguldak 10 1 9 0 0
+İçel 7 0 7 0 0
+
+İl Toplam CHP CMP DP BĞMZ İl Toplam CHP CMP DP BĞMZ
+Toplam 541 31 5 503 2
+Adana  13 0 0 13 0 İstanbul 29 0 0 29 0
+Afyon 9 0 0 9 0 İzmir 20 0 0 20 0
+Ağrı 4 0 0 4 0 Kars 10 10 0 0 0
+Amasya 5 0 0 5 0 Kastamonu 10 0 0 10 0
+Ankara 21 0 0 21 0 Kayseri 10 0 0 10 0
+Antalya 8 0 0 8 0 Kırklareli 5 0 0 5 0
+Artvin  5 0 0 5 0 Kırşehir 5 0 5 0 0
+Aydın 9 0 0 9 0 Kocaeli 12 0 0 12 0
+Balıkesir 14 0 0 14 0 Konya 19 0 0 19 0
+Bilecik 4 0 0 4 0 Kütahya 8 0 0 8 0
+Bingöl 3 0 0 2 1 Malatya 12 12 0 0 0
+Bitlis 2 0 0 2 0 Manisa 12 0 0 12 0
+Bolu 8 0 0 8 0 Maraş 7 0 0 7 0
+Burdur 4 0 0 4 0 Mardin 7 0 0 7 0
+Bursa 14 0 0 14 0 Muğla 6 0 0 6 0
+Çanakkale 8 0 0 8 0 Muş 3 0 0 2 1
+Çankırı 6 0 0 6 0 Niğde 8 0 0 8 0
+Çorum 9 0 0 9 0 Ordu 9 0 0 9 0
+Denizli 9 0 0 9 0 Rize 6 0 0 6 0
+Diyarbakır 8 0 0 8 0 Samsun 12 0 0 12 0
+Edirne 6 0 0 6 0 Siirt 4 0 0 4 0
+Elazığ 5 0 0 5 0 Sinop 6 6 0 0 0
+Erzincan 5 1 0 4 0 Sivas 14 0 0 14 0
+Erzurum 12 0 0 12 0 Tekirdağ 6 0 0 6 0
+Eskişehir 7 0 0 7 0 Tokat 9 0 0 9 0
+Gaziantep 8 0 0 8 0 Trabzon 12 0 0 12 0
+Giresun 8 0 0 8 0 Tunceli 3 2 0 1 0
+Gümüşhane 6 0 0 6 0 Urfa 8 0 0 8 0
+Hakkari 1 0 0 1 0 Uşak 4 0 0 4 0
+Hatay 8 0 0 8 0 Van 4 0 0 4 0
+Isparta 5 0 0 5 0 Yozgat 8 0 0 8 0
+İçel 8 0 0 8 0 Zonguldak 11 0 0 11 0 11
+
+İl Toplam CHP CMP DP HÜRRİYETPARTİSİ İl Toplam CHP CMP DP HÜRRİYETPARTİSİ
+Toplam 610 178 4 424 4
+Adana 16 16 0 0 0 İzmir 22 0 0 22 0
+Adıyaman 5 0 0 5 0 Kars 12 12 0 0 0
+Afyon 10 0 0 10 0 Kastamonu 10 0 0 10 0
+Ağrı 5 0 0 5 0 Kayseri 11 0 0 11 0
+Amasya 6 0 0 6 0 Kırklareli 6 0 0 6 0
+Ankara 27 27 0 0 0 Kırşehir 4 0 4 0 0
+Antalya 9 0 0 9 0 Kocaeli 6 0 0 6 0
+Artvin 5 0 0 5 0 Konya 21 0 0 21 0
+Aydın 11 0 0 11 0 Kütahya 8 0 0 8 0
+Balıkesir 15 0 0 15 0 Malatya 9 9 0 0 0
+Bilecik 4 0 0 4 0 Manisa 14 0 0 14 0
+Bingöl 3 1 0 2 0 Maraş 9 9 0 0 0
+Bitlis 3 0 0 3 0 Mardin 8 8 0 0 0
+Bolu 8 0 0 8 0 Muğla 7 0 0 7 0
+Burdur 4 0 0 0 4 Muş 4 1 0 3 0
+Bursa 15 0 0 15 0 Nevşehir 4 0 0 4 0
+Çanakkale 8 0 0 8 0 Niğde 7 6 0 1 0
+Çankırı 6 6 0 0 0 Ordu 10 10 0 0 0
+Çorum 10 0 0 10 0 Rize 6 0 0 6 0
+Denizli 9 0 0 9 0 Sakarya 8 0 0 8 0
+Diyarbakır 9 0 0 9 0 Samsun 14 0 0 14 0
+Edirne 6 0 0 6 0 Siirt 5 0 0 5 0
+Elazığ 6 6 0 0 0 Sinop 6 0 0 6 0
+Erzincan 6 6 0 0 0 Sivas 15 15 0 0 0
+Erzurum 13 0 0 13 0 Tekirdağ 6 0 0 6 0
+Eskişehir  0 0 8 0 Tokat 10 10 0 0 0
+Gaziantep 10 0 0 10 0 Trabzon 12 0 0 12 0
+Giresun 8 0 0 8 0 Tunceli 3 3 0 0 0
+Gümüşhane 6 6 0 0 0 Urfa 9 9 0 0 0
+Hakkari 1 0 0 1 0 Uşak 4 4 0 0 0
+Hatay 9 9 0 0 0 Van 5 5 0 0 0
+Isparta 5 0 0 5 0 Yozgat 9 0 0 9 0
+İçel 9 0 0 9 0 Zonguldak 12 0 0 12 0
+İstanbul 39 0 0 39 0
+
+İl Toplam AP CHP CKMP YTP İl Toplam AP CHP CKMP YTP
+Toplam 450 158 173 54 65
+Adana 12 7 5 0 0 İzmir 17 10 7 0 0
+Adıyaman 4 0 2 0 2 Kars 9 2 4 0 3
+Afyon 7 2 2 3 0 Kastamonu 7 0 2 2 3
+Ağrı 3 0 0 3 0 Kayseri 8 4 4 0 0
+Amasya 4 2 2 0 0 Kırklareli 4 0 2 0 2
+Ankara 21 4 8 8 1 Kırşehir 3 0 0 3 0
+Antalya 7 5 2 0 0 Kocaeli 5 3 2 0 0
+Artvin 3 2 1 0 0 Konya 16 4 6 4 2
+Aydın 8 6 2 0 0 Kütahya 6 2 2 2 0
+Balıkesir 11 7 4 0 0 Malatya 6 0 5 0 1
+Bilecik 2 2 0 0 0 Manisa 11 7 4 0 0
+Bingöl 2 0 0 0 2 Maraş 6 4 2 0 0
+Bitlis 2 0 1 0 1 Mardin 6 0 3 1 2
+Bolu 6 1 2 1 2 Muğla 5 3 2 0 0
+Burdur 3 1 2 0 0 Muş 3 0 0 0 3
+Bursa 11 8 3 0 0 Nevşehir 3 0 0 3 0
+Çanakkale 5 2 2 0 1 Niğde 5 1 2 2 0
+Çankırı 4 0 0 4 0 Ordu 8 2 4 0 2
+Çorum 7 4 2 1 0 Rize 4 3 1 0 0
+Denizli 7 4 3 0 0 Sakarya 6 3 2 0 1
+Diyarbakır 7 1 3 0 3 Samsun 11 7 4 0 0
+Edirne 5 2 2 0 1 Siirt 4 0 2 0 2
+Elazığ 5 2 2 1 0 Sinop 4 1 2 1 0
+Erzincan 4 0 2 0 2 Sivas 11 0 5 1 5
+Erzurum 9 0 3 2 4 Tekirdağ 4 0 2 0 2
+Eskişehir 6 3 2 1  Tokat 7 1 3 0 3
+Gaziantep 7 2 4 0 1 Trabzon 9 5 4 0 0
+Giresun 6 0 2 1 3 Tunceli 2 0 1 0 1
+Gümüşhane 4 1 2 0 1 Urfa 7 1 4 0 2
+Hakkari 1 0 1 0 0 Uşak 3 0 2 1 0
+Hatay 7 1 3 0 3 Van 3 0 0 0 3
+Isparta 4 3 1 0 0 Yozgat 6 0 2 4 0
+İçel 7 4 3 0 0 Zonguldak 9 5 3 1 0
+İstanbul 31 14 12 4 1 13
+
+İl Toplam AP CHP CKMP PARTİSİ TİP YTP BĞMZ İl Toplam AP CHP CKMP PARTİSİ TİP YTP BĞMZ
+Toplam 450 240 134 11 31 14 19 1
+Adana 12 7 4 0 0 1 0 0 İzmir 17 11 5 0 0 1 0 0
+Adıyaman 4 2 1 0 0 0 1 0 Kars 9 3 3 0 0 1 2 0
+Afyon 7 4 1 1 1 0 0 0 Kastamonu 7 4 1 1 1 0 0 0
+Ağrı 3 1 0 1 0 0 1 0 Kayseri 8 4 3 0 1 0 0 0
+Amasya 4 2 1 0 1 0 0 0 Kırklareli 4 3 1 0 0 0 0 0
+Ankara 21 10 6 1 3 1 0 0 Kırşehir 3 1 1 0 1 0 0 0
+Antalya 7 5 2 0 0 0 0 0 Kocaeli 5 3 2 0 0 0 0 0
+Artvin 3 2 1 0 0 0 0 0 Konya 16 9 4 0 2 1 0 0
+Aydın 8 6 2 0 0 0 0 0 Kütahya 6 4 1 0 1 0 0 0
+Balıkesir 11 7 3 0 1 0 0 0 Malatya 6 2 3 0 0 1 0 0
+Bilecik 2 1 1 0 0 0 0 0 Manisa 11 7 3 0 1 0 0 0
+Bingöl 2 0 1 0 0 0 1 0 Maraş 6 3 2 0 1 0 0 0
+Bitlis 2 1 1 0 0 0 0 0 Mardin 6 1 2 2 0 0 1 0
+Bolu 6 4 1 0 1 0 0 0 Muğla 5 3 2 0 0 0 0 0
+Burdur 3 2 1 0 0 0 0 0 Muş 3 1 1 1 0 0 0 0
+Bursa 11 8 3 0 0 0 0 0 Nevşehir 3 1 1 0 1 0 0 0
+Çanakkale 5 3 2 0 0 0 0 0 Niğde 5 2 1 1 1 0 0 0
+Çankırı 4 2 1 0 1 0 0 0 Ordu 8 4 3 0 0 0 1 0
+Çorum 7 4 2 0 1 0 0 0 Rize 4 3 1 0 0 0 0 0
+Denizli 7 4 2 0 0 1 0 0 Sakarya 6 4 1 0 0 0 1 0
+Diyarbakır 7 2 2 0 0 1 2 0 Samsun 11 6 4 0 1 0 0 0
+Edirne 4 2 1 0 1 0 0 0 Siirt 4 2 1 0 0 0 1 0
+Elazığ 5 3 2 0 0 0 0 0 Sinop 4 1 1 1 1 0 0 0
+Erzincan 4 2 1 0 0 0 1 0 Sivas 11 4 4 1 1 0 1 0
+Erzurum 9 5 2 0 1 0 1 0 Tekirdağ 4 2 1 0 0 1 0 0
+Eskişehir 6 4 2 0 0  0 0 Tokat 7 4 3 0 0 0 0 0
+Gaziantep 7 4 3 0 0 0 0 0 Trabzon 9 5 3 0 1 0 0 0
+Giresun 6 3 2 0 1 0 0 0 Tunceli 2 1 1 0 0 0 0 0
+Gümüşhane 4 2 1 0 0 0 1 0 Urfa 7 3 2 0 0 1 1 0
+Hakkari 1 0 0 0 0 0 1 0 Uşak 3 2 1 0 0 0 0 0
+Hatay 7 4 2 0 0 1 0 0 Van 4 1 2 0 0 0 1 0
+Isparta 4 2 1 0 0 0 1 0 Yozgat 6 2 2 0 1 1 0 0
+İçel 7 4 2 0 1 0 0 0 Zonguldak 9 6 2 0 1 0 0 0
+İstanbul 31 16 9 1 2 2 0 1
+
+İl Toplam AP CHP GP MİLLETPARTİSİ MHP BİRLİKPARTİSİ TİP YTP BĞMZ İl Toplam AP CHP GP MİLLETPARTİSİ MHP BİRLİKPARTİSİ TİP YTP BĞMZ
+Toplam 450 256 143 15 6 1 8 2 6 13
+Adana 13 6 5 1 0 1 0 0 0 0 İzmir 18 11 7 0 0 0 0 0 0 0
+Adıyaman 4 1 2 0 0 0 0 0 0 1 Kars 9 5 4 0 0 0 0 0 0 0
+Afyon 7 5 1 1 0 0 0 0 0 0 Kastamonu 6 4 1 1 0 0 0 0 0 0
+Ağrı 3 1 1 1 0 0 0 0 0 0 Kayseri 8 4 2 2 0 0 0 0 0 0
+Amasya 4 2 1 0 0 0 1 0 0 0 Kırklareli 4 3 1 0 0 0 0 0 0 0
+Ankara 24 11 9 1 2 0 1 0 0 0 Kırşehir 3 1 1 0 1 0 0 0 0 0
+Antalya 7 5 2 0 0 0 0 0 0 0 Kocaeli 4 3 1 0 0 0 0 0 0 0
+Artvin 3 2 1 0 0 0 0 0 0 0 Konya 16 9 4 2 0 0 0 0 0 1
+Aydın 7 5 2 0 0 0 0 0 0 0 Kütahya 6 5 1 0 0 0 0 0 0 0
+Balıkesir 10 7 3 0 0 0 0 0 0 0 Malatya 6 1 3 0 0 0 1 0 0 1
+Bilecik 2 1 1 0 0 0 0 0 0 0 Manisa 11 8 3 0 0 0 0 0 0 0
+Bingöl 2 0 0 0 0 0 0 0 1 1 Maraş 6 3 2 0 0 0 0 0 0 1
+Bitlis 2 1 1 0 0 0 0 0 0 0 Mardin 6 2 1 0 0 0 0 0 1 2
+Bolu 5 4 1 0 0 0 0 0 0 0 Muğla 5 3 2 0 0 0 0 0 0 0
+Burdur 3 2 1 0 0 0 0 0 0 0 Muş 3 0 1 0 0 0 0 0 1 1
+Bursa 11 8 3 0 0 0 0 0 0 0 Nevşehir 3 2 1 0 0 0 0 0 0 0
+Çanakkale 5 4 1 0 0 0 0 0 0 0 Niğde 5 3 2 0 0 0 0 0 0 0
+Çankırı 4 3 1 0 0 0 0 0 0 0 Ordu 8 4 4 0 0 0 0 0 0 0
+Çorum 7 5 1 0 0 0 1 0 0 0 Rize 4 3 1 0 0 0 0 0 0 0
+Denizli 7 5 2 0 0 0 0 0 0 0 Sakarya 6 4 2 0 0 0 0 0 0 0
+Diyarbakır 7 4 0 0 0 0 0 0 2 1 Samsun 11 6 5 0 0 0 0 0 0 0
+Edirne 4 3 1 0 0 0 0 0 0 0 Siirt 4 1 1 1 0 0 0 0 1 0
+Elazığ 5 2 2 0 0 0 0 0 0 1 Sinop 4 2 1 0 1 0 0 0 0 0
+Erzincan 4 2 2 0 0 0 0 0 0 0 Sivas 10 4 4 0 0 0 2 0 0 0
+Erzurum 9 7 2 0 0 0 0 0 0 0 Tekirdağ 4 2 1 1 0 0 0 0 0 0
+Eskişehir 6 4 2 0 0 0 0  0 0 Tokat 7 3 1 1 0 0 1 0 0 1
+Gaziantep 7 3 3 1 0 0 0 0 0 0 Trabzon 9 5 4 0 0 0 0 0 0 0
+Giresun 6 4 2 0 0 0 0 0 0 0 Tunceli 2 1 1 0 0 0 0 0 0 0
+Gümüşhane 4 2 2 0 0 0 0 0 0 0 Urfa 6 4 2 0 0 0 0 0 0 0
+Hakkari 1 0 0 1 0 0 0 0 0 0 Uşak 3 2 1 0 0 0 0 0 0 0
+Hatay 7 3 3 0 0 0 0 0 0 1 Van 4 2 0 1 0 0 0 0 0 1
+Isparta 4 4 0 0 0 0 0 0 0 0 Yozgat 6 3 2 0 1 0 0 0 0 0
+İçel 7 4 3 0 0 0 0 0 0 0 Zonguldak 9 6 3 0 0 0 0 0 0 0
+İstanbul 33 17 12 0 1 0 1 2 0 0 15
+
+İl Toplam AP CHP CGP DEMOKRATİKPARTİ MHP MSP TBP BĞMZ İl Toplam AP CHP CGP DEMOKRATİKPARTİ MHP MSP TBP BĞMZ
+Toplam 450 149 185 13 45 3 48 1 6
+Adana 13 3 6 0 2 1 1 0 0 İzmir 18 8 9 0 1 0 0 0 0
+Adıyaman 4 1 2 0 0 0 1 0 0 Kars 8 1 5 0 1 0 1 0 0
+Afyon 7 3 2 0 1 0 1 0 0 Kastamonu 6 3 2 1 0 0 0 0 0
+Ağrı 4 1 1 1 0 0 1 0 0 Kayseri 8 3 2 2 0 0 1 0 0
+Amasya 4 1 2 0 0 0 1 0 0 Kırklareli 3 1 2 0 0 0 0 0 0
+Ankara 26 8 13 0 2 1 2 0 0 Kırşehir 3 1 2 0 0 0 0 0 0
+Antalya 7 3 3 0 1 0 0 0 0 Kocaeli 5 2 2 0 0 0 1 0 0
+Artvin 3 1 2 0 0 0 0 0 0 Konya 16 2 4 1 6 0 3 0 0
+Aydın 7 3 2 0 2 0 0 0 0 Kütahya 5 3 1 0 1 0 0 0 0
+Balıkesir 9 5 3 0 0 0 1 0 0 Malatya 6 1 4 0 0 0 1 0 0
+Bilecik 2 1 1 0 0 0 0 0 0 Manisa 10 5 3 0 1 0 1 0 0
+Bingöl 2 0 1 0 0 0 1 0 0 KahramanMaraş 7 1 3 0 1 0 2 0 0
+Bitlis 2 1 0 0 0 0 0 0 1 Mardin 6 1 1 1 1 0 1 0 1
+Bolu 5 2 1 1 0 0 1 0 0 Muğla 5 2 2 0 1 0 0 0 0
+Burdur 3 1 2 0 0 0 0 0 0 Muş 3 0 1 0 0 0 1 0 1
+Bursa 11 6 3 0 1 0 1 0 0 Nevşehir 3 1 1 0 0 0 1 0 0
+Çanakkale 5 3 2 0 0 0 0 0 0 Niğde 5 2 1 0 2 0 0 0 0
+Çankırı 3 2 0 0 1 0 0 0 0 Ordu 8 2 3 0 2 0 0 0 1
+Çorum 7 1 3 0 1 0 2 0 0 Rize 4 1 2 0 0 0 1 0 0
+Denizli 6 2 2 0 2 0 0 0 0 Sakarya 6 2 2 0 1 0 1 0 0
+Diyarbakır 7 2 3 0 1 0 1 0 0 Samsun 10 4 4 0 1 0 1 0 0
+Edirne 4 2 2 0 0 0 0 0 0 Siirt 4 1 1 1 0 0 0 0 1
+Elazığ 5 1 2 0 0 0 2 0 0 Sinop 3 1 2 0 0 0 0 0 0
+Erzincan 3 1 2 0 0 0 0 0 0 Sivas 9 2 3 0 0 0 3 1 0
+Erzurum 9 2 2 0 1 0 3 0 1 Tekirdağ 4 2 2 0 0 0 0 0 0
+Eskişehir 6 3 3 0 0 0 0 0 0 Tokat  2 3 0 1 0 1 0 0
+Gaziantep 8 1 4 1 1 0 1 0 0 Trabzon 8 2 4 0 1 0 1 0 0
+Giresun 6 2 3 0 1 0 0 0 0 Tunceli 2 0 2 0 0 0 0 0 0
+Gümüşhane 4 2 1 0 0 0 1 0 0 Urfa 7 3 2 0 1 0 1 0 0
+Hakkari 1 0 1 0 0 0 0 0 0 Uşak 3 1 2 0 0 0 0 0 0
+Hatay 7 2 4 0 1 0 0 0 0 Van 4 1 0 3 0 0 0 0 0
+Isparta 4 4 0 0 0 0 0 0 0 Yozgat 6 1 2 0 1 1 1 0 0
+İçel 7 2 4 0 1 0 0 0 0 Zonguldak 9 4 4 0 0 0 1 0 0
+İstanbul 38 11 20 1 3 0 3 0 0
+
+İl Toplam AP CHP CGP DEMOKRATİKPARTİ MHP MSP BĞMZ İl Toplam AP CHP CGP DEMOKRATİKPARTİ MHP MSP BĞMZ
+Toplam 450 189 213 3 1 16 24 4
+Adana 14 5 7 0 0 1 1 0 İzmir 19 8 11 0 0 0 0 0
+Adıyaman 4 1 2 0 0 0 1 0 Kars 8 2 5 0 0 0 1 0
+Afyon 6 4 2 0 0 0 0 0 Kastamonu 5 3 2 0 0 0 0 0
+Ağrı 4 2 1 1 0 0 0 0 Kayseri 8 3 3 1 0 1 0 0
+Amasya 4 2 2 0 0 0 0 0 Kırklareli 3 1 2 0 0 0 0 0
+Ankara 29 10 16 0 0 2 1 0 Kırşehir 3 1 2 0 0 0 0 0
+Antalya 7 4 3 0 0 0 0 0 Kocaeli 5 2 3 0 0 0 0 0
+Artvin 3 2 1 0 0 0 0 0 Konya 16 5 5 0 1 2 3 0
+Aydın 7 4 3 0 0 0 0 0 Kütahya 5 4 1 0 0 0 0 0
+Balıkesir 9 5 4 0 0 0 0 0 Malatya 6 1 4 0 0 0 1 0
+Bilecik 2 1 1 0 0 0 0 0 Manisa 10 6 4 0 0 0 0 0
+Bingöl 2 1 1 0 0 0 0 0 KahramanMaraş 7 2 3 0 0 1 1 0
+Bitlis 2 1 0 0 0 0 1 0 Mardin 6 1 2 0 0 0 2 1
+Bolu 5 3 2 0 0 0 0 0 Muğla 4 2 2 0 0 0 0 0
+Burdur 2 1 1 0 0 0 0 0 Muş 3 1 1 0 0 0 1 0
+Bursa 11 7 4 0 0 0 0 0 Nevşehir 3 2 1 0 0 0 0 0
+Çanakkale 4 2 2 0 0 0 0 0 Niğde 5 2 2 0 0 1 0 0
+Çankırı 3 2 1 0 0 0 0 0 Ordu 7 3 4 0 0 0 0 0
+Çorum 6 3 2 0 0 1 0 0 Rize 4 2 2 0 0 0 0 0
+Denizli 6 3 3 0 0 0 0 0 Sakarya 5 3 2 0 0 0 0 0
+Diyarbakır 7 2 3 0 0 0 1 1 Samsun 10 5 5 0 0 0 0 0
+Edirne 4 2 2 0 0 0 0 0 Siirt 4 1 1 0 0 0 1 1
+Elazığ 5 1 2 0 0 1 0 1 Sinop 3 1 2 0 0 0 0 0
+Erzincan 3 1 2 0 0 0 0 0 Sivas 8 2 4 0 0 1 1 0
+Erzurum 8 4 2 0 0 1 1 0 Tekirdağ 4 2 2 0 0 0 0 0
+Eskişehir 5 3 2 0 0 0 0 0 Tokat 7 2 4 0 0 1  0
+Gaziantep 8 3 4 0 0 1 0 0 Trabzon 8 3 4 0 0 0 1 0
+Giresun 5 3 2 0 0 0 0 0 Tunceli 2 0 2 0 0 0 0 0
+Gümüşhane 3 2 1 0 0 0 0 0 Urfa 7 3 3 0 0 0 1 0
+Hakkari 1 1 0 0 0 0 0 0 Uşak 3 1 2 0 0 0 0 0
+Hatay 8 3 5 0 0 0 0 0 Van 4 1 1 1 0 0 1 0
+Isparta 4 3 1 0 0 0 0 0 Yozgat 6 2 2 0 0 1 1 0
+İçel 8 4 4 0 0 0 0 0 Zonguldak 9 4 5 0 0 0 0 0
+İstanbul 44 13 27 0 0 1 3 0 17
+
+İl Toplam ANAP HP MDP İl Toplam ANAP HP MDP
+Toplam 399 211 117 71
+Adana 12 5 5 2 İzmir 16 5 8 3
+Adıyaman 4 2 1 1 Kars 6 2 2 2
+Afyon 5 4 1 0 Kastamonu 4 2 0 2
+Ağrı 4 1 2 1 Kayseri 7 4 2 1
+Amasya 4 2 2 0 Kırklareli 3 1 2 0
+Ankara 22 14 6 2 Kırşehir 3 2 1 0
+Antalya 7 4 1 2 Kocaeli 5 3 2 0
+Artvin 3 3 0 0 Konya 13 8 3 2
+Aydın 6 2 2 2 Kütahya 5 4 0 1
+Balıkesir 7 3 2 2 Malatya 6 4 2 0
+Bilecik 2 1 1 0 Manisa 8 5 2 1
+Bingöl 2 2 0 0 KahramanMaraş 6 3 1 2
+Bitlis 3 0 0 3 Mardin 5 2 1 2
+Bolu 5 4 0 1 Muğla 4 2 1 1
+Burdur 3 3 0 0 Muş 3 2 0 1
+Bursa 10 6 2 2 Nevşehir 3 3 0 0
+Çanakkale 4 2 1 1 Niğde 5 3 1 1
+Çankırı 3 3 0 0 Ordu 6 3 2 1
+Çorum 5 2 2 1 Rize 4 2 0 2
+Denizli 5 2 2 1 Sakarya 5 3 1 1
+Diyarbakır 7 2 3 2 Samsun 8 6 2 0
+Edirne 4 2 2 0 Siirt 4 1 1 2
+Elazığ 4 4 0 0 Sinop 3 0 2 1
+Erzincan 3 2 1 0 Sivas 7 3 3 1
+Erzurum 7 4 1 2 Tekirdağ 4 2 2 0
+Eskişehir 5 3 2 0 Tokat 6 4 2 0
+Gaziantep 7 3 2 2 Trabzon 6  2 1
+Giresun 5 3 1 1 Tunceli 2 0 2 0
+Gümüşhane 3 3 0 0 Urfa 5 2 1 2
+Hakkari 2 0 2 0 Uşak 3 2 1 0
+Hatay 7 2 3 2 Van 4 2 0 2
+Isparta 4 4 0 0 Yozgat 5 3 1 1
+İçel 7 3 3 1 Zonguldak 8 3 4 1
+İstanbul 36 17 13 6
+
+İl Toplam ANAP DYP SHP İl Toplam ANAP DYP SHP
+Toplam 450 292 59 99
+Adana 14 7 3 4 İzmir 19 8 1 10
+Adıyaman 4 4 0 0 Kars 6 4 0 2
+Afyon 6 4 2 0 Kastamonu 4 4 0 0
+Ağrı 4 4 0 0 Kayseri 8 8 0 0
+Amasya 4 2 0 2 Kırklareli 3 1 0 2
+Ankara 26 16 0 10 Kırşehir 3 3 0 0
+Antalya 8 3 4 1 Kocaeli 7 2 1 4
+Artvin 3 1 1 1 Konya 14 12 2 0
+Aydın 7 6 0 1 Kütahya 5 3 2 0
+Balıkesir 8 6 1 1 Malatya 6 5 0 1
+Bilecik 2 1 0 1 Manisa 9 4 3 2
+Bingöl 3 1 1 1 KahramanMaraş 7 4 2 1
+Bitlis 3 3 0 0 Mardin 6 3 1 2
+Bolu 5 4 1 0 Muğla 5 2 1 2
+Burdur 3 3 0 0 Muş 4 4 0 0
+Bursa 11 7 3 1 Nevşehir 3 1 1 1
+Çanakkale 4 4 0 0 Niğde 5 3 2 0
+Çankırı 3 3 0 0 Ordu 7 7 0 0
+Çorum 6 4 0 2 Rize 4 4 0 0
+Denizli 6 3 1 2 Sakarya 6 4 2 0
+Diyarbakır 8 3 1 4 Samsun 9 4 5 0
+Edirne 4 2 0 2 Siirt 5 3 2 0
+Elazığ 5 2 3 0 Sinop 3 1 1 1
+Erzincan 3 2 0 1 Sivas 7 6 0 1
+Erzurum 7 6 1 0 Tekirdağ 4 2 0 2
+Eskişehir 5 3 0 2 Tokat 6 4 0 2
+Gaziantep 8 6 0 2 Trabzon 7 6 1 0
+Giresun 5 3 0 2 Tunceli 2 0 0 2
+Gümüşhane 3 3 0 0 Şanlıurfa 7 7 0 0
+Hakkari 2 1 0 1 Uşak 3 3 0 0
+Hatay 9 3 1 5 Van 5 5 0 0
+Isparta 4 0 4 0 Yozgat 5 5 0 0
+İçel 9 5 0 4 Zonguldak 9 4 5 0
+İstanbul 45 31 0 14 19
+
+İl Toplam ANAP DSP DYP RP SHP İl Toplam ANAP DSP DYP RP SHP
+Toplam 450 115 7 178 62 88
+Adana 14 1 0 10 0 3 Kayseri 7 0 0 0 7 0
+Adıyaman 4 0 0 0 0 4 Kırklareli 3 1 0 1 0 1
+Afyon 6 2 0 4 0 0 Kırşehir 3 0 0 0 0 3
+Ağrı 4 2 0 2 0 0 Kocaeli 7 1 0 5 1 0
+Amasya 3 0 0 0 0 3 Konya 13 1 0 6 6 0
+Ankara 23 7 0 7 2 7 Kütahya 5 2 0 2 1 0
+Antalya 9 1 0 6 0 2 Malatya 6 4 0 0 1 1
+Artvin 2 1 0 1 0 0 Manisa 9 2 0 7 0 0
+Aydın 6 2 0 4 0 0 KahramanMaraş 7 0 0 1 6 0
+Balıkesir 7 0 0 7 0 0 Mardin 5 0 0 0 0 5
+Bilecik 2 1 0 1 0 0 Muğla 5 1 0 3 0 1
+Bingöl 3 0 0 1 2 0 Muş 3 0 0 0 0 3
+Bitlis 3 2 0 0 1 0 Nevşehir 3 0 0 2 1 0
+Bolu 5 2 0 3 0 0 Niğde 3 0 0 3 0 0
+Burdur 3 0 0 3 0 0 Ordu 6 4 0 2 0 0
+Bursa 12 4 0 8 0 0 Rize 3 3 0 0 0 0
+Çanakkale 4 0 0 4 0 0 Sakarya 6 2 0 3 1 0
+Çankırı 3 1 0 1 1 0 Samsun 9 2 0 7 0 0
+Çorum 5 1 0 1 2 1 Siirt 3 0 0 0 0 3
+Denizli 6 2 0 3 0 1 Sinop 3 0 0 3 0 0
+Diyarbakır 8 0 0 1 0 7 Sivas 6 0 0 0 4 2
+Edirne 4 0 2 2 0 0 Tekirdağ 4 0 0 4 0 0
+Elazığ 4 0 0 2 2 0 Tokat 6 0 0 1 3 2
+Erzincan 3 1 0 0 0 2 Trabzon 6 3 0  2 0
+Erzurum 7 0 0 2 5 0 Tunceli 2 0 0 0 0 2
+Eskişehir 5 2 0 3 0 0 Şanlıurfa 8 2 0 5 1 0
+Gaziantep 9 0 0 4 0 5 Uşak 3 0 0 0 0 3
+Giresun 4 4 0 0 0 0 Van 5 1 0 2 1 1
+Gümüşhane 2 1 0 0 1 0 Yozgat 5 2 0 0 3 0
+Hakkari 2 1 0 1 0 0 Zonguldak 7 0 1 6 0 0
+Hatay 8 0 0 3 0 5 Aksaray 3 0 0 2 1 0
+Isparta 4 0 0 4 0 0 Bayburt 2 1 0 0 1 0
+İçel 9 2 0 4 0 3 Karaman 2 0 0 0 2 0
+İstanbul 50 33 3 5 4 5 Kırıkkale 3 0 0 3 0 0
+İzmir 19 8 0 7 0 4 Batman 3 0 0 0 0 3
+Kars 5 0 0 2 0 3 Şırnak 3 0 0 0 0 3
+Kastamonu 4 2 0 2 0 0 Bartın 2 0 1 1 0 0
+
+İl Toplam ANAP CHP DSP DYP RP İl Toplam ANAP CHP DSP DYP RP
+Toplam 550 132 49 76 135 158
+Adana 17 4 1 4 4 4 Kocaeli 9 2 1 2 1 3
+Adıyaman 5 1 1 0 1 2 Konya 16 2 1 1 3 9
+Afyon 7 1 0 1 3 2 Kütahya 6 1 0 1 2 2
+Ağrı 5 1 0 0 1 3 Malatya 7 2 1 0 0 4
+Amasya 4 1 1 0 1 1 Manisa 11 3 1 2 4 1
+Ankara 28 8 5 4 4 7 KahramanMaraş 8 2 1 0 1 4
+Antalya 10 2 3 1 3 1 Mardin 6 2 0 0 2 2
+Artvin 3 1 1 0 1 0 Muğla 6 1 1 1 3 0
+Aydın 8 2 1 1 3 1 Muş 4 1 0 0 1 2
+Balıkesir 9 2 1 2 3 1 Nevşehir 3 1 0 0 1 1
+Bilecik 2 0 0 1 1 0 Niğde 4 1 0 0 2 1
+Bingöl 3 0 0 0 0 3 Ordu 8 3 0 2 1 2
+Bitlis 4 1 0 0 1 2 Rize 4 3 0 0 0 1
+Bolu 6 2 0 1 1 2 Sakarya 7 2 0 1 2 2
+Burdur 3 1 0 1 1 0 Samsun 11 3 1 2 2 3
+Bursa 14 3 1 3 4 3 Siirt 3 1 0 0 0 2
+Çanakkale 5 1 1 1 2 0 Sinop 3 1 0 1 1 0
+Çankırı 3 1 0 0 1 1 Sivas 7 2 1 0 1 3
+Çorum 6 1 1 0 1 3 Tekirdağ 5 1 0 2 2 0
+Denizli 7 1 1 1 3 1 Tokat 7 2 1 0 1 3
+Diyarbakır 10 3 0 0 2 5 Trabzon 8 3 0 1 1 3
+Edirne 4 0 0 2 2 0 Tunceli 2 0 1 0 1 0
+Elazığ 5 0 0 0 2 3 Şanlıurfa 9 2 0 0 3 4
+Erzincan 4 0 2 0 0 2 Uşak 3 1 0 1 1 0
+Erzurum 8 1 0 0 2 5 Van 6 2 0 0 1 3
+Eskişehir 6 1 0 2 2 1 Yozgat 6 2 0 0 1 3
+Gaziantep 9 2 1 2 1 3 Zonguldak 6 1 0 3 1 1
+Giresun 5 3 0 0 1 1 Aksaray 4 1 0 0 1 2
+Gümüşhane 2 1 0 0 0 1 Bayburt 2 1 0 0 0 1
+Hakkari 2 1 0 0 1 0 Karaman 3 0 0 1 0 2
+Hatay 10 2 3 1 2 2 Kırıkkale 4 1 0 0 1 2
+Isparta 5 1 0 0 3 1 Batman 4 1 0 0 1 2
+İçel 12 3 2 2 3 2 Şırnak 3 1 0 0 2 0
+İstanbul 61 15 7 12 11 16 Bartın 3 1 0 1 1 0
+İzmir 24 5 4 6 7 2 Ardahan 2 0 1 0 1 0
+Kars 4 1 0 1 1 1 Iğdır 2 0 0 1 1 0
+Kastamonu 5 1 0 1 2 1 Yalova 2 1 0 0 1 0
+Kayseri 9 2 0 1 2 4 Karabük 3 0 0 1 1 1
+Kırklareli 4 1 1 1 1 0 Kilis 2 0 0 0 1 1
+Kırşehir 3 1 0 0 1 1 21
+
+İl Toplam ANAP DSP DYP FP MHP BĞMZ İl Toplam ANAP DSP DYP FP MHP BĞMZ
+Toplam 550 86 136 85 111 129 3
+Adana 14 2 5 1 2 4 0 Kocaeli 10 1 3 1 3 2 0
+Adıyaman 6 1 0 1 3 1 0 Konya 16 1 2 2 6 5 0
+Afyon 7 1 1 1 1 3 0 Kütahya 6 0 1 2 1 2 0
+Ağrı 4 1 0 1 1 1 0 Malatya 7 1 0 0 3 2 1
+Amasya 4 0 1 1 1 1 0 Manisa 10 1 3 2 1 3 0
+Ankara 28 4 9 2 5 8 0 KahramanMaraş 9 1 0 2 3 3 0
+Antalya 12 2 3 3 1 3 0 Mardin 6 2 1 2 1 0 0
+Artvin 2 0 1 1 0 0 0 Muğla 6 1 3 1 0 1 0
+Aydın 8 2 3 1 0 2 0 Muş 4 1 1 1 1 0 0
+Balıkesir 9 1 3 2 1 2 0 Nevşehir 3 0 0 0 1 2 0
+Bilecik 2 0 1 0 0 1 0 Niğde 3 0 1 1 0 1 0
+Bingöl 3 0 0 1 2 0 0 Ordu 7 2 2 1 1 1 0
+Bitlis 4 1 0 1 1 1 0 Rize 3 2 0 0 1 0 0
+Bolu 5 1 1 1 1 1 0 Sakarya 6 1 1 1 2 1 0
+Burdur 3 0 1 1 0 1 0 Samsun 10 1 3 2 2 2 0
+Bursa 16 3 6 2 3 2 0 Siirt 3 1 0 1 1 0 0
+Çanakkale 4 1 1 1 0 1 0 Sinop 3 1 1 1 0 0 0
+Çankırı 3 0 0 0 1 2 0 Sivas 6 0 1 0 3 2 0
+Çorum 5 0 0 1 1 3 0 Tekirdağ 5 1 3 1 0 0 0
+Denizli 7 1 2 2 0 2 0 Tokat 6 0 0 1 2 3 0
+Diyarbakır 11 3 1 3 4 0 0 Trabzon 7 2 1 1 1 20
+Edirne 4 1 3 0 0 0 0 Tunceli 2 0 0 1 0 0 1
+Elazığ 5 0 0 1 2 1 1 Şanlıurfa 11 2 0 4 4 1 0
+Erzincan 3 0 0 1 1 1 0 Uşak 3 0 2 0 0 1 0
+Erzurum 8 0 0 2 3 3 0 Van 7 1 0 2 3 1 0
+Eskişehir 6 1 3 1 0 1 0 Yozgat 6 1 0 0 2 3 0
+Gaziantep 9 1 2 1 2 3 0 Zonguldak 6 1 3 1 0 1 0
+Giresun 5 1 1 1 1 1 0 Aksaray 4 0 0 1 1 2 0
+Gümüşhane 2 0 0 0 1 1 0 Bayburt 2 0 0 0 1 1 0
+Hakkari 3 1 0 1 1 0 0 Karaman 3 0 1 0 1 1 0
+Hatay 10 2 2 1 2 3 0 Kırıkkale 4 1 0 1 1 1 0
+Isparta 4 1 0 1 0 2 0 Batman 4 1 0 2 1 0 0
+İçel 12 2 3 2 0 5 0 Şırnak 3 1 0 1 1 0 0
+İstanbul 69 14 26 3 18 8 0 Bartın 2 1 1 0 0 0 0
+İzmir 24 5 14 2 0 3 0 Ardahan 2 0 1 1 0 0 0
+Kars 3 1 1 0 0 1 0 Iğdır 2 0 0 0 1 1 0
+Kastamonu 4 1 1 1 0 1 0 Yalova 2 1 1 0 0 0 0
+Kayseri 8 0 1 1 2 4 0 Karabük 3 0 1 1 0 1 0
+Kırklareli 3 1 2 0 0 0 0 Kilis 2 0 0 1 0 1 0
+Kırşehir 3 0 1 0 0 2 0 Osmaniye 4 0 0 0 1 3 0
+
+İl Toplam AKPARTİ CHP BĞMZ İl Toplam AKPARTİ CHP BĞMZ
+Toplam 550 363 178 9
+Adana 14 8 6 0 Konya 16 14 2 0
+Adıyaman 5 4 1 0 Kütahya 6 6 0 0
+Afyon 7 6 1 0 Malatya 7 5 2 0
+Ağrı 5 3 2 0 Manisa 10 6 4 0
+Amasya 3 2 1 0 KahramanMaraş 8 7 1 0
+Ankara 29 17 12 0 Mardin 6 3 2 1
+Antalya 13 5 8 0 Muğla 6 2 4 0
+Artvin 2 1 1 0 Muş 4 3 1 0
+Aydın 8 4 4 0 Nevşehir 3 3 0 0
+Balıkesir 8 5 3 0 Niğde 3 2 1 0
+Bilecik 2 1 1 0 Ordu 7 5 2 0
+Bingöl 3 3 0 0 Rize 3 3 0 0
+Bitlis 4 3 0 1 Sakarya 6 6 0 0
+Bolu 3 3 0 0 Samsun 9 7 2 0
+Burdur 3 2 1 0 Siirt 3 1 1 1
+Bursa 16 12 4 0 Sinop 3 2 1 0
+Çanakkale 4 2 2 0 Sivas 6 5 1 0
+Çankırı 3 3 0 0 Tekirdağ 5 2 3 0
+Çorum 5 4 1 0 Tokat 7 5 2 0
+Denizli 7 4 3 0 Trabzon 8 6 2 0
+Diyarbakır 10 8 2 0 Tunceli 2 0 2 0
+Edirne 4 1 3 0 Şanlıurfa 11 7 3 1
+Elazığ 5 4 0 1 Uşak 3 2 1 0
+Erzincan 3 2 1 0 Van 7 6 1 0
+Erzurum 7 7 0 0 Yozgat 6 5 1 0
+Eskişehir 6 3 3 0 Zonguldak 5 3 2 0
+Gaziantep 10 7 3 0 Aksaray 4 4 0 0
+Giresun 5 4 1 0 Bayburt 2 1 0 1
+Gümüşhane 2 2 0 0 Karaman 3 2 1 0
+Hakkari 3 1 1 1 Kırıkkale 4 3 1 0
+Hatay 10 5 5 0 Batman 4 3 1 0
+Isparta 5 4 1 0 Şırnak 3 2 0 1
+Mersin 12 5 7 0 Bartın 2 2 0 0
+İstanbul 70 43 27 0 Ardahan 2 1 1 0
+İzmir 24 8 16 0 Iğdır 2 0 1 1
+Kars 3 2 1 0 Yalova 2 1 1 0
+Kastamonu 4 3 1 0 Karabük 3 3 0 0
+Kayseri 8 7 1 0 Kilis 2 2 0 0
+Kırklareli 3 1 2 0 Osmaniye 4 3 1 0
+Kırşehir 3 2 1 0 Düzce 3 3 0 0
+Kocaeli 9 6 3 0
+
+İl Toplam AKPARTİ CHP MHP BĞMZ İl Toplam AKPARTİ CHP MHP BĞMZ
+Toplam 550 341 112 71 26
+Adana 14 6 4 4 0 Konya 16 13 1 2 0
+Adıyaman 5 4 1 0 0 Kütahya 6 5 0 1 0
+Afyonkarahisar 7 5 1 1 0 Malatya 7 6 1 0 0
+Ağrı 5 5 0 0 0 Manisa 10 5 2 3 0
+Amasya 3 2 1 0 0 KahramanMaraş 8 6 1 1 0
+Ankara 29 16 9 4 0 Mardin 6 4 0 0 2
+Antalya 13 5 5 3 0 Muğla 6 2 3 1 0
+Artvin 2 1 1 0 0 Muş 4 2 0 0 2
+Aydın 8 3 2 3 0 Nevşehir 3 3 0 0 0
+Balıkesir 8 5 2 1 0 Niğde 3 2 0 1 0
+Bilecik 2 1 1 0 0 Ordu 7 5 1 1 0
+Bingöl 3 3 0 0 0 Rize 3 2 0 0 1
+Bitlis 4 3 0 0 1 Sakarya 6 5 0 1 0
+Bolu 3 3 0 0 0 Samsun 9 6 2 1 0
+Burdur 3 2 1 0 0 Siirt 3 2 0 0 1
+Bursa 16 10 3 3 0 Sinop 3 2 1 0 0
+Çanakkale 4 2 1 1 0 Sivas 6 4 1 0 1
+Çankırı 3 2 0 1 0 Tekirdağ 5 2 2 1 0
+Çorum 5 4 1 0 0 Tokat 7 5 1 1 0
+Denizli 7 4 2 1 0 Trabzon 8 6 1 1 0
+Diyarbakır 10 6 0 0 4 Tunceli 2 0 0 0 2
+Edirne 4 1 2 1 0 Şanlıurfa 11 9 0 0 2
+Elazığ 5 5 0 0 0 Uşak 3 2 1 0 0
+Erzincan 3 2 1 0 0 Van 7 5 0 0 2
+Erzurum 7 6 0 1 0 Yozgat 6 5 0 1 0
+Eskişehir 6 3 2 1 0 Zonguldak 5 3 2 0 0
+Gaziantep 10 7 2 1 0 Aksaray 4 3 0 1 0
+Giresun 5 3 1 1 0 Bayburt 2 2 0 0 0
+Gümüşhane 2 2 0 0 0 Karaman 3 2 0 1 0
+Hakkari 3 2 0 0 1 Kırıkkale 4 3 0 1 0
+Hatay 10 5 3 2 0 Batman 4 2 0 0 2
+Isparta 5 3 1 1 0 Şırnak 3 1 0 0 2
+Mersin 12 4 4 4 0 Bartın 2 1 1 0 0
+İstanbul 70 39 22 7 2 Ardahan 2 1 1 0 0
+İzmir 24 9 11 4 0 Iğdır 2 1 0 0 1
+Kars 3 2 0 1 0 Yalova 2 1 1 0 0
+Kastamonu 4 3 0 1 0 Karabük 3 3 0 0 0
+Kayseri 8 6 1 1 0 Kilis 2 2 0 0 0
+Kırklareli 3 1 2 0 0 Osmaniye 4 2 0 2 0
+Kırşehir 3 2 0 1 0 Düzce 3 3 0 0 0
+Kocaeli 9 6 2 1 0
+
+İl Toplam AKPARTİ CHP MHP BĞMZ İl Toplam AKPARTİ CHP MHP BĞMZ
+Toplam 550 327 135 53 35
+Adana 14 6 4 3 1 Konya 14 11 1 2 0
+Adıyaman 5 4 1 0 0 Kütahya 5 4 0 1 0
+Afyonkarahisar 5 3 1 1 0 Malatya 6 5 1 0 0
+Ağrı 4 3 0 0 1 Manisa 10 5 3 2 0
+Amasya 3 2 1 0 0 KahramanMaraş 8 6 1 1 0
+Ankara 31 17 10 4 0 Mardin 6 3 0 0 3
+Antalya 14 6 5 3 0 Muğla 6 2 3 1 0
+Artvin 2 1 1 0 0 Muş 4 2 0 0 2
+Aydın 7 3 3 1 0 Nevşehir 3 3 0 0 0
+Balıkesir 8 4 3 1 0 Niğde 3 2 1 0 0
+Bilecik 2 1 0 1 0 Ordu 6 5 1 0 0
+Bingöl 3 2 0 0 1 Rize 3 3 0 0 0
+Bitlis 3 2 0 0 1 Sakarya 7 5 1 1 0
+Bolu 3 2 1 0 0 Samsun 9 6 2 1 0
+Burdur 3 2 1 0 0 Siirt 3 2 0 0 1
+Bursa 18 11 5 2 0 Sinop 2 1 1 0 0
+Çanakkale 4 2 2 0 0 Sivas 5 4 1 0 0
+Çankırı 2 2 0 0 0 Tekirdağ 6 2 3 1 0
+Çorum 4 3 1 0 0 Tokat 5 3 1 1 0
+Denizli 7 4 2 1 0 Trabzon 6 4 1 1 0
+Diyarbakır 11 6 0 0 5 Tunceli 2 0 2 0 0
+Edirne  1 2 0 0 Şanlıurfa 12 10 0 0 2
+Elazığ 5 4 0 1 0 Uşak 3 2 1 0 0
+Erzincan 2 1 1 0 0 Van 8 4 0 0 4
+Erzurum 6 5 0 1 0 Yozgat 4 3 0 1 0
+Eskişehir 6 3 2 1 0 Zonguldak 5 3 2 0 0
+Gaziantep 12 9 2 1 0 Aksaray 3 3 0 0 0
+Giresun 4 3 1 0 0 Bayburt 1 1 0 0 0
+Gümüşhane 2 2 0 0 0 Karaman 2 2 0 0 0
+Hakkari 3 0 0 0 3 Kırıkkale 3 3 0 0 0
+Hatay 10 5 4 1 0 Batman 4 2 0 0 2
+Isparta 4 2 1 1 0 Şırnak 4 1 0 0 3
+Mersin 11 4 4 2 1 Bartın 2 1 1 0 0
+İstanbul 85 46 29 7 3 Ardahan 2 1 1 0 0
+İzmir 26 11 13 2 0 Iğdır 2 0 0 1 1
+Kars 3 2 0 0 1 Yalova 2 1 1 0 0
+Kastamonu 3 2 0 1 0 Karabük 2 2 0 0 0
+Kayseri 9 7 1 1 0 Kilis 2 2 0 0 0
+Kırklareli 3 1 2 0 0 Osmaniye 4 2 0 2 0
+Kırşehir 2 2 0 0 0 Düzce 3 3 0 0 0
+Kocaeli 11 7 3 1 0
